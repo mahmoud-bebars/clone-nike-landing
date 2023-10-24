@@ -1,5 +1,8 @@
 # Nike Landing Page
 
+![repo screen (5)](https://github.com/mahmoud-bebars/clone-nike-landing/assets/66588352/c71797b9-6bc0-44af-8a6d-395353e4c439)
+
+
 ## Getting Started
 
 First, run the development server:
